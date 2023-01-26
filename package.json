@@ -1,0 +1,23 @@
+{
+  "name": "pixel",
+  "version": "1.0.0",
+  "description": "Pixel is a friendly AI companion",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasromerodb/discord-bot-starter-template-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasromerodb/discord-bot-starter-template-nodejs/issues"
+  },
+  "homepage": "https://github.com/lucasromerodb/discord-bot-starter-template-nodejs#readme",
+  "dependencies": {
+    "discord.js": "13.12.0",
+    "node-fetch": "2"
+  }
+}
