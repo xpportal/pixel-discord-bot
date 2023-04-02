@@ -1,5 +1,7 @@
 # Pixel Bot (NodeJS)
 
+BASED ON : https://github.com/lucasromerodb/discord-bot-starter-template-nodejs
+
 ## Pre-requisites
 
 - [Node 12 or newer](https://nodejs.org/en/) (LTS recommended)
